@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons_MarkupCompile.cache
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons_MarkupCompile.lref
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\bin\Debug\Les_Boutons.exe.config
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\bin\Debug\Les_Boutons.exe
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\bin\Debug\Les_Boutons.pdb
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\MainWindow.baml
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.g.resources
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.Properties.Resources.resources
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.exe
+C:\Users\Home\Desktop\4_1WPF_2_Les_Boutons\Les_Boutons\obj\Debug\Les_Boutons.pdb

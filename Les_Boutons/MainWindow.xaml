@@ -1,0 +1,15 @@
+﻿<Window x:Class="Les_Boutons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Les_Boutons"
+        mc:Ignorable="d"
+          Title="Les boutons exo2" Height="450" Width="800">
+    <Grid>
+        <!--Affichage du bouton et click appelant la méthode pour afficher le msg dans une fenêtre-->
+        <Button Content="Un message si tu clic ici!" Margin="246,107,253,260" Click="Button_Click" FontFamily="Franklin Gothic Medium" FontSize="18" Foreground="#FFF72727"/>
+        <Button x:Name="button" Content="Un autre" HorizontalAlignment="Left" VerticalAlignment="Top" Width="167" Margin="313,234,0,0" Height="50" Background="#FFEE5F5F" BorderBrush="#FF4EBFB0" Foreground="#FFF8FBEE" FontWeight="Bold" FontStyle="Italic" FontSize="16" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
